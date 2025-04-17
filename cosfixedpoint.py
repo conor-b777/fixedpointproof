@@ -4,7 +4,10 @@ from time import *
 #gimme numbers aaaagh
 n = int(input("\nEnter any number: "))
 print()
+
+#so theres no minus sign
 n=cos(n)
+
 #cosines the number
 while True:
     n = cos(n)
