@@ -4,7 +4,7 @@ from time import *
 #gimme numbers aaaagh
 n = int(input("\nEnter any number: "))
 print()
-
+n=cos(n)
 #cosines the number
 while True:
     n = cos(n)
@@ -17,4 +17,4 @@ while True:
 
 #prints with decimal limit of 20
     else:
-        print(f"cos({n:.20f})", end='\r', flush=True)
+        print(f"cos({n:.20f})", end="\r", flush=True)
