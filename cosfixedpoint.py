@@ -20,4 +20,4 @@ while True:
 
 #prints with decimal limit of 20
     else:
-        print(f"cos({n:.20f})", end="\r", flush=True)
+        print(f"cos({n:.25f})", end="\r", flush=True)
