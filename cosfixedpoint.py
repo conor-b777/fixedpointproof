@@ -18,6 +18,6 @@ while True:
         print("\n\nFixed Point Reached!\n")
         break
 
-#prints with decimal limit of 20
+#prints with decimal limit of 25
     else:
         print(f"cos({n:.25f})", end="\r", flush=True)
