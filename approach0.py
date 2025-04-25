@@ -2,7 +2,7 @@ from math import *
 from time import *
 
 #gimme numbers aaaagh
-n = int(input("\nEnter any number (warning:big numbr incoming): "))
+n = int(input("\nEnter any number (WARNING - big number incoming): "))
 
 #halves the number
 while True:
